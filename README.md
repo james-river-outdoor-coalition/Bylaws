@@ -1,6 +1,6 @@
 # Bylaws of James River Outdoor Coalition
 
-* Article I - [Members](https://github.com/james-river-outdoor-coalition/Bylaws/tree/master/Articles/Article%20I%20-%20Members)
+* Article I - [Members](https://github.com/james-river-outdoor-coalition/Bylaws/tree/gh-pages/Articles/Article%20I%20-%20Members)
 	* Section I - [Classes Of Members]
 	* Section II - [Elegibility To Vote]
 	* Section III - [Selection Of Members]
