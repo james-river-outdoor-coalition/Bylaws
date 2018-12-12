@@ -1,1 +1,6 @@
+---
+name: Programs Committee
+article: six
+---
+
 3. **Programs Committee.** The Programs Committee shall oversee all of the research, educational and park improvement activities of the Coalition.
