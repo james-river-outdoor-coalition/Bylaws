@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Bylaws of James River Outdoor Coalition
 description: Find out more about us at jroc.net
-logo: /assets/JROC-1101-Logo_FINAL-color_NOtag.png
+logo: /assets/images/JROC-1101-Logo_FINAL-color_NOtag.png
 show_downloads: true
 collections:
   articles:
