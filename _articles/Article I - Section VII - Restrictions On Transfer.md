@@ -1,6 +1,9 @@
 ---
-name: Restrictions On Transfer
+title: Restrictions On Transfer
 article: one
+layout: article
 ---
+# Article I
+## Section VII
 
-7. **Restrictions on Transfer.** Memberships are not transferable.
+**Restrictions on Transfer.** Memberships are not transferable.

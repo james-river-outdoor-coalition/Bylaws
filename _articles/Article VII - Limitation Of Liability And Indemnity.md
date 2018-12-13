@@ -1,7 +1,10 @@
 ---
-name: Limitation Of Liability And Idemnity
+title: Limitation Of Liability And Idemnity
 article: seven
+layout: article
 ---
+# Article VII 
+## Limitation Of Liability And Idemnity
 
 In every instance in which the Virginia Nonstock Corporation Act, as it exists on the date hereof or may hereafter be amended, permits the limitation or elimination of liability of directors or officers or a corporation to the corporation, the directors and officers of James River Outdoor Coalition shall not be liable to the Coalition.
 
